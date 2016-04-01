@@ -1,2 +1,2 @@
 # linpeisong.github.io
-first blog
+try github blo
